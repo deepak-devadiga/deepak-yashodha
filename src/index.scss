@@ -1,0 +1,19 @@
+@import './theme.scss';
+
+body {
+  margin: 0;
+  font-family: var(--default-font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.section{
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+}

@@ -1,0 +1,28 @@
+.header-section{
+    background: transparent;
+    display: flex;
+    height: 75px;
+    width: 100vw;
+    box-sizing: border-box;
+    justify-content: space-around;
+    padding: 0 20%;
+    position: fixed;
+    transition: 0.5s ease-in-out;
+    z-index: 1;
+    .header-tab{
+        margin: auto;
+        cursor: pointer;
+        font-weight: 400;
+        letter-spacing: .1em;
+        transition: text-shadow .25s;
+        &:hover{
+            transition: 0.25 ease-in-out;
+            text-shadow: 0 0 1px var(--secondary-color), 0 0 1px var(--secondary-color);
+        }
+    }  
+}
+.scrolled{
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+    transition: 0.5s ease-in-out;
+}

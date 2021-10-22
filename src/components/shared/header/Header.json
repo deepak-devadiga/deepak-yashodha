@@ -1,0 +1,34 @@
+{
+    "headerContent": [
+        {
+            "title": "HOME",
+            "id": 0,
+            "hash": "home__section"
+        },
+        {
+            "title": "OUR STORY",
+            "id": 1,
+            "hash": "our__story__section"
+        },
+        {
+            "title": "GALLERY",
+            "id": 2,
+            "hash": "gallery__section"
+        },
+        {
+            "title": "WEDDING",
+            "id": 3,
+            "hash": "wedding__section"
+        },
+        {
+            "title": "GETTING THERE",
+            "id": 4,
+            "hash": "getting__there__section"
+        },
+        {
+            "title": "FIND US",
+            "id": 5,
+            "hash": "find_us__section"
+        }
+    ]
+}
