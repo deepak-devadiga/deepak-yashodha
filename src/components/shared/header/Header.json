@@ -6,9 +6,9 @@
             "hash": "home__section"
         },
         {
-            "title": "OUR STORY",
+            "title": "GETTING THERE",
             "id": 1,
-            "hash": "our__story__section"
+            "hash": "getting__there__section"
         },
         {
             "title": "GALLERY",
@@ -21,13 +21,8 @@
             "hash": "wedding__section"
         },
         {
-            "title": "GETTING THERE",
-            "id": 4,
-            "hash": "getting__there__section"
-        },
-        {
             "title": "FIND US",
-            "id": 5,
+            "id": 4,
             "hash": "find_us__section"
         }
     ]

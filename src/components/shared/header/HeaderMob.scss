@@ -1,0 +1,22 @@
+.headermob-section{
+        background: transparent;
+        display: flex;
+        height: 60px;
+        width: 100vw;
+        box-sizing: border-box;
+        justify-content: space-around;
+        padding: 0 5%;
+        position: fixed;
+        transition: 0.5s ease-in-out;
+        z-index: 1;
+        margin: auto;
+        .fa{
+            margin: auto;
+            margin-right: 0;
+        }
+    }
+.scrolled{
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+    transition: 0.5s ease-in-out;
+}
