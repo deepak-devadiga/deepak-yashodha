@@ -70,6 +70,7 @@
 
 .home-mob-section{
     @extend .home-section;
+    background-image: url('../../assets//images/home/banner-mob.jpeg');
     .home-content{
         .name{
             font-family: var(--title-font-family);
