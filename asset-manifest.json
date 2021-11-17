@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deepak-yashodha/static/css/main.84b6a5d1.chunk.css",
+    "main.css": "/deepak-yashodha/static/css/main.10599fbd.chunk.css",
     "main.js": "/deepak-yashodha/static/js/main.03d21426.chunk.js",
     "main.js.map": "/deepak-yashodha/static/js/main.03d21426.chunk.js.map",
     "runtime-main.js": "/deepak-yashodha/static/js/runtime-main.8f993cc6.js",
@@ -8,13 +8,14 @@
     "static/js/2.a8966aa1.chunk.js": "/deepak-yashodha/static/js/2.a8966aa1.chunk.js",
     "static/js/2.a8966aa1.chunk.js.map": "/deepak-yashodha/static/js/2.a8966aa1.chunk.js.map",
     "index.html": "/deepak-yashodha/index.html",
-    "static/css/main.84b6a5d1.chunk.css.map": "/deepak-yashodha/static/css/main.84b6a5d1.chunk.css.map",
-    "static/js/2.a8966aa1.chunk.js.LICENSE.txt": "/deepak-yashodha/static/js/2.a8966aa1.chunk.js.LICENSE.txt"
+    "static/css/main.10599fbd.chunk.css.map": "/deepak-yashodha/static/css/main.10599fbd.chunk.css.map",
+    "static/js/2.a8966aa1.chunk.js.LICENSE.txt": "/deepak-yashodha/static/js/2.a8966aa1.chunk.js.LICENSE.txt",
+    "static/media/Home.scss": "/deepak-yashodha/static/media/banner-mob.3af6f789.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8f993cc6.js",
     "static/js/2.a8966aa1.chunk.js",
-    "static/css/main.84b6a5d1.chunk.css",
+    "static/css/main.10599fbd.chunk.css",
     "static/js/main.03d21426.chunk.js"
   ]
 }
